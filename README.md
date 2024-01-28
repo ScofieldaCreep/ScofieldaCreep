@@ -3,19 +3,21 @@
 
 - Currently a MSCS student **@New York University**
 
-- But then I found I love **Coding cuz I have tooooo much idea to realize instead of wasting my whole life talking nonsense bshxt like in WStreet**
+- Urrrrgently seeking SDE in United States **Let's make connection rn!**
+
+- Was a student in management and finance. Boring right :(
+  
+- But then I found I love Coding cuz I have tooooo much idea to realize instead of wasting my whole life talking nonsense bshxt like in WStreet
 
 - Now working on this [MEAN stack project(whooo~)](https://github.com/ScofieldaCreep/mean_publicFileSystem)
 
-- Was a student in management and finance **Boring right**
-
 - Here's my email [cz2883@nyu.edu](cz2883@nyu.edu)
+
+- Here's my Linkedin **https://www.linkedin.com/in/chizhang111/**
 
 - Welcome Coffee Chat @ NY INS ---> [@zcccofield](@zcccofield)
 
-- Urrrrgently seeking SDE in United States **Let's make connection rn!**
 
-- Here's my Linkedin **https://www.linkedin.com/in/chizhang111/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
