@@ -3,7 +3,7 @@
 
 - Currently a MSCS student **@New York University**
 
-- Urrrrgently seeking SDE in United States **Let's make connection rn!**
+- 2024 Summer Intern @ Paypal Braintree.
 
 - Was a student in management and finance. Boring right :(
   
