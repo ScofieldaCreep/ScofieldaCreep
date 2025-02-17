@@ -1,17 +1,7 @@
 <h1 align="center">Yo, It's Chase, coder in the house</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scofieldacreep&label=Profile%20views&color=0e75b6&style=flat" alt="scofieldacreep" /> </p>
 
-- Currently a MSCS student **@New York University**
-
-- 2024 Summer Intern @ Paypal Braintree.
-
-- Was a student in management and finance. Boring right :(
-  
-- But then I found I love Coding cuz I have tooooo much idea to realize instead of wasting my whole life talking nonsense bshxt like in WStreet
-
-- Now working on this [MEAN stack project(whooo~)](https://github.com/ScofieldaCreep/mean_publicFileSystem)
-
-- Here's my email [cz2883@nyu.edu](cz2883@nyu.edu)
+- Here's my email [chizhang2048@gmail.com](chizhang2048@gmail.com)
 
 - Here's my Linkedin **https://www.linkedin.com/in/chizhang111/**
 
