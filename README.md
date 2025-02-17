@@ -1,11 +1,17 @@
 <h1 align="center">Yo, It's Chase, coder in the house</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scofieldacreep&label=Profile%20views&color=0e75b6&style=flat" alt="scofieldacreep" /> </p>
 
-- Here's my email [chizhang2048@gmail.com](chizhang2048@gmail.com)
+- Recently published a FREE automated AI solution renderer called `AlgoAce`, an chrome extension used for mock interview & leetcode practice, check it here: [AlgoAce Chrome Page](https://chromewebstore.google.com/detail/algo-ace/jgmbkilelblcdpcokkclihbedbmccdla)
 
-- Here's my Linkedin **https://www.linkedin.com/in/chizhang111/**
+- SDE @ PayPal, core transaction pricing team, building a fee calculator used for $100,000,000,000 volume real world transactions!
 
-- Welcome Coffee Chat @ NY INS ---> [@zcccofield](@zcccofield)
+- Email [chizhang2048@gmail.com](chizhang2048@gmail.com)
+
+- Linkedin [Chi Zhang](https://www.linkedin.com/in/chizhang111)
+
+- Welcome Coffee Chat @ San Jose INS ---> [@zcccofield](@zcccofield)
+
+
 
 
 
